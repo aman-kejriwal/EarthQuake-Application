@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/EarthQuakeReport/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.171" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/EarthQuakeReport/app/src/main/res/drawable/ic_launcher_background.xml" value="0.171" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/EarthQuakeReport/app/src/main/res/drawable/magnitude_circle.xml" value="0.171" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/EarthQuakeReport/app/src/main/res/layout/activity_main.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/EarthQuakeReport/app/src/main/res/layout/activity_splash.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/EarthQuakeReport/app/src/main/res/layout/list_item.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/EarthQuakeReport/app/src/main/res/layout/magnitude_circle.xml" value="0.18125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/EarthQuakeReport/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.171" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
